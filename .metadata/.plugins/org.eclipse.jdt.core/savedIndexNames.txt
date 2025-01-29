@@ -15,7 +15,6 @@ INDEX VERSION 1.131+C:\Users\Win10\board_prj\.metadata\.plugins\org.eclipse.jdt.
 1846115161.index
 1865733069.index
 3695762375.index
-1268042501.index
 2205249529.index
 408565316.index
 697245076.index
