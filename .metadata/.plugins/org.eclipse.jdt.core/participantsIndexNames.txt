@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-C:\Users\Win10\board_prj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2017673925.index
-\board_prj\src
-C:\Users\Win10\board_prj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2174076770.index
-\board_prj\src
-C:\Users\Win10\board_prj\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\894468294.index
-\board_prj\src
