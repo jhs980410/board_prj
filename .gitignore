@@ -37,3 +37,4 @@ replay_pid*
 # Git이 `src` 폴더를 추적하도록 보장
 !src/
 !src/**/*
+Servers/
